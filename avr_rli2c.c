@@ -15,7 +15,7 @@
 #include <avr/interrupt.h>
 #include <avr/eeprom.h>
 #include <util/delay.h>
-#include "./avri2c.h"
+#include "./avr_rli2c.h"
 #include "./I2CSlave.h"
 #include "./rli2c.h"
 
