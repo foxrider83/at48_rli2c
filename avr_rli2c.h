@@ -1,5 +1,5 @@
 /* 
- * File:   avri2c.h
+ * File:   avr_rli2c.h
  * Author: tux
  *
  * Created on 6 octobre 2022, 14:37
